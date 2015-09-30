@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 禹貢說斷
-#+DATE: 2015-09-23 09:35:55
-#+PROPERTY: JUAN 1
+#+DATE: 2015-08-24 22:01:52.315107
+#+PROPERTY: ID KR1b0012
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷一
 <pb:KR1b0012_WYG_001-1a>¶
 欽定四庫全書¶
 　禹貢說斷卷一¶
@@ -1064,4 +1066,3 @@
 　¶
 　¶
 　禹貢說斷卷一¶
-
